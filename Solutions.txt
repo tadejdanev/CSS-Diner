@@ -4,10 +4,10 @@
 04. plate apple - apple from plate
 05. #fancy pickle - pickle from id="fancy"
 06. .small - class combines with .
-07. orange.small - .small class from orange
-08. bento orange.small
-09. plate, bento
-10. *
+07. orange.small - .small = class from orange
+08. bento orange.small - .small class from bento
+09. plate, bento - combining selectors aka comma combining
+10. * -when you want to select everything
 11. plate *
 12. plate + apple
 13. bento ~ pickle
